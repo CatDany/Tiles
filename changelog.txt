@@ -1,0 +1,10 @@
+0.2:
+- GL render updates now only happen on request
+- Tiles now have 3D effect
+- Bottom line removed, now empty
+- Added score counter
+- After tapping the wrong tile, the score will reset and all tiles will be randomized
+- Cleaned up some code
+
+0.1:
+- Initial functional build
